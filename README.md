@@ -1,15 +1,22 @@
-# Arproject
+# CarsVR
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+Implementing Virtual Reality for a Car Dealership Web Application
 
-## Development server
+## Introduction
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+The Car dealership web app will require 360 images of cars of all sides and will be reconstructed like a 3D model i.e 3D reconstruction, similar to Google Maps Images.
 
-## Code scaffolding
+### The Major Issue
+i Do not know how to do 3D reconstruction, but a friend of mine told me he worked on something similar using python and openCV, so and hoping perhaps will can be receiving i/o via a python API. if any suggestions please let me know
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Code Requirements
 
+All Angular 7 dependencies are required, you will obviously find them in package.json so no qawms
+* Aframe WebVR Framework is required, on Now to install Aframe to work with angular check out this article on [medium](https://medium.com/@pitipon/a-frame-with-angular-setup-project-5797b2f2a03b), or check on any relevanta article online
+
+
+##Angular Infos
+the below information is from angular
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
