@@ -4,10 +4,13 @@ Implementing Virtual Reality for a Car Dealership Web Application
 
 ## Introduction
 
-The Car dealership web app will require 360 images of cars of all sides and will be reconstructed like a 3D model i.e 3D reconstruction, similar to Google Maps Images.
+The Car dealership web app will require 360 images of cars of all sides and there will be a walkthrough similar to Google Maps Images.
 
-### The Major Issue
-i Do not know how to do 3D reconstruction, but a friend of mine told me he worked on something similar using python and openCV, so and hoping perhaps will can be receiving i/o via a python API. if any suggestions please let me know
+### latest test
+i added an example of the 360 image car interior using aframe on app.component.html i.e the root component, whats next is learning how to do the 360 image walkthrough or 360 slideshow (rotate show to be precise..lol)
+
+### The new Major issue
+we have limited number of test images, only few 360 panorama images are online
 
 ## Code Requirements
 
